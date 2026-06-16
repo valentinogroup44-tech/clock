@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- ============================================================
+       Multilingual Sitemap — onlinealarm.net
+       Languages: en, tr, de, fr, es, it, pt, pt-BR, nl, ru, ar,
+                  zh-CN, zh-TW, ja, ko, pl, uk, hi, id, sv
+       Generated: 2025-06
+  ============================================================ -->
+
+  <!-- English (x-default) -->
+    <url>
+    <loc>https://www.onlinealarm.net/</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- Turkish -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=tr</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- German -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=de</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- French -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=fr</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- Spanish -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=es</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- Italian -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=it</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- Portuguese (PT) -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=pt</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- Portuguese (Brazil) -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=pt-BR</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- Dutch -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=nl</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- Russian -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=ru</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- Arabic -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=ar</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- Chinese Simplified -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=zh-CN</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- Chinese Traditional -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=zh-TW</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- Japanese -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=ja</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- Korean -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=ko</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- Polish -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=pl</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- Ukrainian -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=uk</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- Hindi -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=hi</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- Indonesian -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=id</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+  <!-- Swedish -->
+    <url>
+    <loc>https://www.onlinealarm.net/?lang=sv</loc>
+    <lastmod>2025-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default"    href="https://www.onlinealarm.net/"/>
+    <xhtml:link rel="alternate" hreflang="en"           href="https://www.onlinealarm.net/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="tr"           href="https://www.onlinealarm.net/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="de"           href="https://www.onlinealarm.net/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="fr"           href="https://www.onlinealarm.net/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es"           href="https://www.onlinealarm.net/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="it"           href="https://www.onlinealarm.net/?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="pt"           href="https://www.onlinealarm.net/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR"        href="https://www.onlinealarm.net/?lang=pt-BR"/>
+    <xhtml:link rel="alternate" hreflang="nl"           href="https://www.onlinealarm.net/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="ru"           href="https://www.onlinealarm.net/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ar"           href="https://www.onlinealarm.net/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"        href="https://www.onlinealarm.net/?lang=zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW"        href="https://www.onlinealarm.net/?lang=zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja"           href="https://www.onlinealarm.net/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="ko"           href="https://www.onlinealarm.net/?lang=ko"/>
+    <xhtml:link rel="alternate" hreflang="pl"           href="https://www.onlinealarm.net/?lang=pl"/>
+    <xhtml:link rel="alternate" hreflang="uk"           href="https://www.onlinealarm.net/?lang=uk"/>
+    <xhtml:link rel="alternate" hreflang="hi"           href="https://www.onlinealarm.net/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="id"           href="https://www.onlinealarm.net/?lang=id"/>
+    <xhtml:link rel="alternate" hreflang="sv"           href="https://www.onlinealarm.net/?lang=sv"/>
+  </url>
+
+</urlset>
